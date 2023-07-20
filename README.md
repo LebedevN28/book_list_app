@@ -1,6 +1,6 @@
-# React ToDo на контексте
+# To Do List на useContext
 
-Сделаем старую задачу с помощью новых инструментов.
+Сделаем старую задачу с помощью новых инструментов!
 
 ![React todo list template](readme-assets/react-todo-list.jpg)
 
